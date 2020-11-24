@@ -1,8 +1,8 @@
 # Tabla de contenidos
 - [Teoria](#Teoria).
-    - [Git](#¿Que-es-git?).
+    - [Git](#Git).
     - [Git Flow](#Metodología-Git-Flow).
-    - [Utilización](#¿Porque-la-utilizamos?).
+    - [Utilización](#Utilización).
 - [Prerrequisitos](#Prerrequisitos).
 - [Start](#Start).
     - [Creacion de ramas iniciales](#Creacion-de-ramas-iniciales).
@@ -16,7 +16,7 @@
 # Teoria
 Antes de comenzar deeriamos entender los siguientes conceptos:
 
-## ¿Que es Git?
+## Git
 
 - Git es un sistema de control de versiones, el cual nos puede servir para trabajar en equipo de una manera mucho más simple,cómoda y óptima cuando estamos desarrollando una aplicación o software.
 - Además de que vamos a poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código teniendo acceso al control absoluto de todo lo que pasa en el código, pudiendo volver atrás en el tiempo, pudiendo abrir diferentes ramas de desarrollo, etc.
@@ -26,7 +26,7 @@ Antes de comenzar deeriamos entender los siguientes conceptos:
 - Es un flujo de trabajo aplicado a un repositorio Git. Vincent Driessen fue el encargado de popularizarlo, definiendo un modelo estricto de ramificación diseñado en torno a los lanzamientos del proyecto. Es ideal para proyectos que lleven una planificación de entregas iterativas. 
 - Permite la paralelización del desarrollo mediante ramas independientes para la preparación, mantenimiento y publicación de versiones del proyecto, además de que soporta la reparación de errores en cualquier momento.
 
-## ¿Porque la utilizamos?
+## Utilización
 - En este proyecto, utilizamos la herramienta git flow, ya que podemos desarrollar el proyecto en paralelo. Así, todos los integrantes del proyecto pueden implementar sus features sin preocupación de dañar el codigo de sus compañeros, o de que el suyo propio sea dañado.
 
 # Prerrequisitos
