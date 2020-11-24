@@ -14,7 +14,7 @@
     - [Merge Main Develop](#Mergear-develop-con-main).
 
 # Teoria
-Antes de comenzar deeriamos entender los siguientes conceptos:
+Antes de comenzar deberiamos entender los siguientes conceptos:
 
 ## Git
 
